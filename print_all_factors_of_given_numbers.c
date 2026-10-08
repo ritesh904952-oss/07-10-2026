@@ -10,7 +10,7 @@ int main()
 
     {
      if ( a % i == 0)
-     printf("\n%d",i);   /* code */
+     printf("\n%d",i);   
     }
     
 }
